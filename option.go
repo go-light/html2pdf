@@ -6,8 +6,6 @@ import (
 )
 
 type options struct {
-	//ctx context.Context
-
 	// Sleep is an empty action that calls time.Sleep with the specified duration.
 	//
 	// Note: this is a temporary action definition for convenience, and will likely
